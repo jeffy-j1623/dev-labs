@@ -35,6 +35,22 @@ Every webpage starts with a structured **HTML document**. Understanding the fund
 
 ---
 
+## 🚀 My Learning Experience
+
+- **Initial Challenge:**
+
+  - Understanding why the `<head>` section is crucial despite not displaying visible content.
+  - Then finally recognised as it is the tab name of any website.
+
+- **Breakthrough Moment:**
+
+  - Realizing how meta tags enhance accessibility, SEO, and responsiveness.
+
+- **Noteworthy Discovery:**
+  - The `lang` attribute in `<html>` improves usability for screen readers and search engines.
+  - I have explored regarding Reginal Languages websites
+  - With the curiosity I have made a [mini project](https://github.com/jeffy-j1623/dev-portfolio/blob/main/mini-projects/my-1st-tamil-webpage.html) on this.
+
 ## 📌 Summary
 
 The **basic structure of an HTML document** consists of the `DOCTYPE` declaration, the root `<html>` element, the `<head>` section for metadata, and the `<body>` section for visible content. This structure is the **foundation of web development**, and understanding it is crucial before moving on to advanced topics.
