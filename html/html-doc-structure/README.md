@@ -51,6 +51,8 @@ Every webpage starts with a structured **HTML document**. Understanding the fund
   - I have explored regarding Reginal Languages websites
   - With the curiosity I have made a [mini project](https://github.com/jeffy-j1623/dev-portfolio/blob/main/mini-projects/my-1st-tamil-webpage.html) on this.
 
+---
+
 ## 📌 Summary
 
 The **basic structure of an HTML document** consists of the `DOCTYPE` declaration, the root `<html>` element, the `<head>` section for metadata, and the `<body>` section for visible content. This structure is the **foundation of web development**, and understanding it is crucial before moving on to advanced topics.
