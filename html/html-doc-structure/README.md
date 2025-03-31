@@ -38,12 +38,10 @@ Every webpage starts with a structured **HTML document**. Understanding the fund
 ## 🚀 My Learning Experience
 
 - **Initial Challenge:**
-
   - Understanding why the `<head>` section is crucial despite not displaying visible content.
-  - Then finally recognised as it is the tab name of any website.
+  - Then finally I recognised as it is the tab name of any website.
 
 - **Breakthrough Moment:**
-
   - Realizing how meta tags enhance accessibility, SEO, and responsiveness.
 
 - **Noteworthy Discovery:**
