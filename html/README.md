@@ -9,22 +9,19 @@ In each file, I focuses on a specific topic to get deep knowledge and understand
 
 Each chapter covers a specific topic with practical exercises and structured learning.
 
-```
-html/
-│── README.md  # Overview of HTML section
-│── fundamentals/  # Basic HTML Topics
-│   ├── 01_basics/  # Basic Document Structure
-│   ├── 02_text-formatting/  # Text Formatting
-│   ├── 03_content-sectioning/  # Semantic Structure
-│   ├── 04_lists-data-structuring/  # Lists & Data Structuring
-│   ├── 05_hyperlinks-navigation/  # Hyperlinks & Navigation
-│   ├── 06_tables-data-presentation/  # Tables & Data Presentation
-|   ├── 07_forms/ # Forms
-│── advanced/  # Advanced HTML Topics
-│   ├── 01_accessibility-aria/ # Accessibility & ARIA
-|   ├── 02_seo-meta-tags/ # SEO & Meta Tags
-
-```
+> 📂 **html/**
+> │── README.md
+> │── fundamentals/
+> │ ├── 01_basics/
+> │ ├── 02_text-formatting/
+> │ ├── 03_content-sectioning/
+> │ ├── 04_lists-data-structuring/
+> │ ├── 05_hyperlinks-navigation/
+> │ ├── 06_tables-data-presentation/
+> | ├── 07_forms/
+> │── advanced/
+> │ ├── 01_accessibility-aria/
+> | ├── 02_seo-meta-tags/
 
 ## 📖 Learning Path
 
@@ -70,7 +67,7 @@ html/
 - Basic tables (`<table>`, `<tr>`, `<td>`, `<th>`)
 - Merging rows and columns (`rowspan`, `colspan`)
 
-#### 8️⃣ Forms Validation
+#### 8️⃣ Forms
 
 - Form elements (`<form>`, `<input>`, `<label>`, `<select>`, `<textarea>`)
 - Fieldsets and legends (`<fieldset>`, `<legend>`)
@@ -88,14 +85,13 @@ html/
 #### 2️⃣ SEO & Meta Tags
 
 - Essential meta tags (`<meta charset>`, `<meta name="description">`)
-- Open Graph and Twitter Cards for social media 
-
+- Open Graph and Twitter Cards for social media
 
 ## 📊 Progress Tracker
 
-**Legend:**  
-✅ **Completed** – Topic is fully done.  
-⬜ **Not Started** – Topic has not been started yet.  
+**Legend:**
+✅ **Completed** – Topic is fully done.
+⬜ **Not Started** – Topic has not been started yet.
 ⌛ **In Progress** – Currently working on this topic.
 
 | Topic                      | Status |
@@ -111,6 +107,12 @@ html/
 | Accessibility ARIA         | ⬜     |
 | SEO & Meta Tags            | ⬜     |
 
+## Resources & Further Reading 📚
 
+    Valuable Resources which helped me to learn HTML and expand my knowledge in HTML:
 
-
+     🔹 **MDN Web Docs (HTML Guide)** - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+     🔹 **W3Schools HTML Tutorial** - [W3Schools](https://www.w3schools.com/html/)
+     🔹 **HTML Validator** - [W3C Validator](https://validator.w3.org/)
+     🔹 **HTML5 Boilerplate** - [HTML5 Boilerplate](https://html5boilerplate.com/)
+     🔹 **Can I Use? (Check Browser Compatibility)** - [Can I Use](https://caniuse.com/)
