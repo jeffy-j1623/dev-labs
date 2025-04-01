@@ -23,13 +23,13 @@ html/
 │── css/ # HTML + CSS integration
 │── bootstrap/ # HTML + CSS + Bootstrap
 │── tailwind/ # HTML + CSS + Tailwind
-│── sass/ # SASS/SCSS practices and projects
-│── javascript/ # JavaScript-related topics and examples
-│── react/ # React.js exercises and projects
-│── typescript/ # TypeScript practices and projects
-|── vuejs/ # Vue.js exercises and projects
+│── sass/ # SASS/SCSS
+│── javascript/ # JavaScript
+│── react/ # React.js
+│── typescript/ # TypeScript
+|── vuejs/ # Vue.js
 │── web-components/ # Web Components (Custom Elements, Shadow DOM, HTML Templates)
-│── npm/ # npm-related topics
+│── npm/ # npm
 │── performance/ # Performance optimizations and best practices
 │── deployment/ # Hosting and deployment practices
 
@@ -43,18 +43,18 @@ html/
 ⬜ **Not Started** – Topic has not been started yet.  
 ⌛ **In Progress** – Currently working on this topic.
 
-| **Topic**                  | **Status** | **Completion Date** |
-| -------------------------- | ---------- | ------------------- |
-| HTML5                      | ✅         |                     |
-| CSS                        | ⌛         |                     |
-| Bootstrap                  | ⬜         |                     |
-| Tailwind CSS               | ⬜         |                     |
-| SASS/SCSS                  | ⬜         |                     |
-| JavaScript                 | ⬜         |                     |
-| React                      | ⬜         |                     |
-| TypeScript                 | ⬜         |                     |
-| Web Components             | ⬜         |                     |
-| SEO & Meta Tags            | ⬜         |                     |
+| **Topic**       | **Status** | **Completion Date** |
+| --------------- | ---------- | ------------------- |
+| HTML5           | ✅         |                     |
+| CSS             | ⌛         |                     |
+| Bootstrap       | ⬜         |                     |
+| Tailwind CSS    | ⬜         |                     |
+| SASS/SCSS       | ⬜         |                     |
+| JavaScript      | ⬜         |                     |
+| React           | ⬜         |                     |
+| TypeScript      | ⬜         |                     |
+| Web Components  | ⬜         |                     |
+| SEO & Meta Tags | ⬜         |                     |
 
 ## Technologies Covered
 
