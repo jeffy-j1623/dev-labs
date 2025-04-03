@@ -38,10 +38,12 @@ Every webpage starts with a structured **HTML document**. Understanding the fund
 ## 🚀 My Learning Experience
 
 - **Initial Challenge:**
+
   - Understanding why the `<head>` section is crucial despite not displaying visible content.
   - Then finally I recognised as it is the tab name of any website.
 
 - **Breakthrough Moment:**
+
   - Realizing how meta tags enhance accessibility, SEO, and responsiveness.
 
 - **Noteworthy Discovery:**
@@ -57,4 +59,4 @@ The **basic structure of an HTML document** consists of the `DOCTYPE` declaratio
 
 ---
 
-🚀 **Next:** Move to **Text Formatting** to learn about text elements.
+🚀 **Next:** Move to [Text Formatting](https://github.com/jeffy-j1623/dev-labs/tree/main/html/text-formating) to learn about text elements.

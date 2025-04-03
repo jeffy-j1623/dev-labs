@@ -6,10 +6,10 @@ Text is a fundamental part of any webpage. This section covers the essential ele
 
 ## 📌 Core Elements:
 
-| **Tag**         | **Usage**                      |
+| **Tag**         | **Description**                      |
 | --------------- | ------------------------------ |
 | `<h1>` - `<h6>` | Headings (largest to smallest) |
-| `<p>`           | Paragraphs for text blocks     |
+| `<p>`           | Paragraphs    |
 | `<br>`          | Line breaks                    |
 | `<hr>`          | Horizontal separators          |
 
@@ -43,4 +43,4 @@ Text is a fundamental part of any webpage. This section covers the essential ele
 
 ---
 
-⏭️ **Next:** Learn about inline text styles.
+⏭️ **Next:** Learn about [Inline text styles](https://github.com/jeffy-j1623/dev-labs/tree/main/html/text-formating/inline-text-styles).
