@@ -17,7 +17,7 @@ The name `dev-labs` represents **Development** Laboratory reflects the experimen
 The **Dev Labs** repository is organized into several folders, each dedicated to specific frontend technologies and concepts. Below is an overview of the folder structure:
 
 ```
-📁 **Dev Labs**/
+📁 dev-labs/
 │── 📜 README.md  
 │── 📁 html/ # HTML 
 │── 📁 css/ # HTML + CSS 
