@@ -6,19 +6,19 @@ This section explains inline formatting elements that modify text appearance wit
 
 ## 📑 Core Elements
 
-| **Tag**    | **Description**                                                                |
-| ---------- | ---------------------------------------------------------------------- |
-| `<b>`      | Bold text                                               |
-| `<strong>` | Important text                                         |
-| `<i>`      | Italic text                                            |
-| `<em>`     | Emphasized text                                      |
-| `<u>`      | Underlined text                                                        |
-| `<sub>`    | Subscript                                                 |
-| `<sup>`    | Superscript                                                |
-|  `<del>`   | Deleted text       |
+| **Tag**    | **Description** |
+| ---------- | --------------- |
+| `<b>`      | Bold text       |
+| `<strong>` | Important text  |
+| `<i>`      | Italic text     |
+| `<em>`     | Emphasized text |
+| `<u>`      | Underlined text |
+| `<sub>`    | Subscript       |
+| `<sup>`    | Superscript     |
+| `<del>`    | Deleted text    |
 | `<ins>`    | Inserted text   |
-| `<mark>`   | Highlights text                                                        |
-| `<small>`  | Smaller text |
+| `<mark>`   | Highlights text |
+| `<small>`  | Smaller text    |
 
 ---
 
@@ -26,26 +26,27 @@ This section explains inline formatting elements that modify text appearance wit
 
 - **Initial Challenge:**
 
-  - Initially, I confused **`<b>` and `<strong>`**, as well as **`<i>` and `<em>`**, assuming they were interchangeable.
-  - TThen I realized my mistake and started using `<b>` and `<i>` strictly for visual styling. I also learned that `<strong>` and `<em>` provide real semantic value, improving both SEO and accessibility by helping search engines and screen readers better understand the importance of the content.
+  - I used `<b>` and `<i>` thinking they added emphasis or importance, but later understood they are purely **visual** and have **no semantic meaning**.
+  - I also thought `<u>` was used for emphasis, but found it’s mainly for indicating **non-textual annotations** or **names in East Asian texts**, and overusing it may confuse users (as underlines often imply links).
 
 - **Breakthrough Moment:**
 
-  - I used to think the `<ins>` and `<del>` tags were just for styling like striking a word and highlight a word related to the word, but I realized they are meant to show inserted and deleted content. This helps track changes, especially when working with others.
-  - So these tags improved my understanding about accessibility and add meaningful structure to content, rather than just focusing on visual appearance. This changed how I approached editing and version control.
+  - When I started learning semantic HTML, I realized the difference between **presentational** and **semantic** tags. Tags like `<b>`, `<i>`, and `<u>` are now in my toolkit for styling **without meaning**.
+  - I discovered that `<sub>` and `<sup>` are more than just visual tweaks — they have **actual semantic meaning** for math/science notation (e.g., H<sub>2</sub>O, E = mc<sup>2</sup>).
 
 - **Noteworthy Discovery:**
-  - `<small>` is used to display smaller text, useful for disclaimers or fine print.
-  - Recognizing the importance of `<sub>` and `<sup>` for scientific and mathematical notation rather than just for styling.
+
+  - `<small>` is not just for reducing font size — it's used for things like **disclaimers, copyright**, and **fine print**. That subtlety made my content more structured.
+  - Learning how these tags render differently by default helped me clean up unnecessary CSS.
 
 ---
 
 ## 🔑 Summary:
 
-- Use semantic elements (`<strong>`, `<em>`, `<ins>`, `<del>`) when meaning matters.
-- Use non-semantic elements (`<b>`, `<i>`, `<u>`) for purely visual effects.
-- `<mark>` helps emphasize key points, while `<small>` is great for legal text and disclaimers.
-
+- `<b>`, `<i>`, and `<u>` are **presentational**: use them when you want visual effects but not semantic meaning.
+- `<sub>` and `<sup>` should be used when the **position of text has meaning**, such as chemical formulas or superscripted references.
+- `<small>` is ideal for **fine print, legal notices, or additional notes**.
+- Prefer semantic tags when meaning matters; use these when **visual representation** is the main goal.
 
 ---
 
