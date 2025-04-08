@@ -18,12 +18,9 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 
 ```
 📁 dev-labs/
-│── 📜 README.md  
-│── 📁 html/ # HTML 
-│── 📁 css/ # HTML + CSS 
-│── 📁 bootstrap/ # HTML + CSS + Bootstrap
-│── 📁 tailwind/ # HTML + CSS + Tailwind
-│── 📁 sass/ # SASS/SCSS
+│── 📜 README.md
+│── 📁 html/ # HTML
+│── 📁 css/ # HTML + CSS
 │── 📁 javascript/ # JavaScript
 │── 📁 react/ # React.js
 │── 📁 so on....
@@ -37,15 +34,15 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 ⬜ **Not Started** – Topic has not been started yet.  
 ⌛ **In Progress** – Currently working on this topic.
 
-| **Technology**       | **Status** | **Completion Date** |
-| -------------------- | ---------- | ------------------- |
-| HTML5                | ✅         |                     |
-| CSS                  | ⌛         |                     |
-| Bootstrap            | ⬜         |                     |
-| Tailwind CSS         | ⬜         |                     |
-| SASS/SCSS            | ⬜         |                     |
-| JavaScript           | ⬜         |                     |
-| React                | ⬜         |                     |
+| **Technology** | **Status** | **Completion Date** |
+| -------------- | ---------- | ------------------- |
+| HTML5          | ✅         |                     |
+| CSS            | ⌛         |                     |
+| Bootstrap      | ⬜         |                     |
+| Tailwind CSS   | ⬜         |                     |
+| SASS/SCSS      | ⬜         |                     |
+| JavaScript     | ⬜         |                     |
+| React          | ⬜         |                     |
 
 ## 📟 Technologies Covered
 
@@ -58,4 +55,3 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 - **SASS/SCSS**: A CSS preprocessor that provides features like variables, nested rules, and mixins.
 - **JavaScript**: The core scripting language for creating interactive and dynamic web applications.
 - **React.js**: A JavaScript library for building user interfaces, particularly single-page applications.
-
