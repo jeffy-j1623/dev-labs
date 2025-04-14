@@ -9,19 +9,23 @@ In each file, I focuses on a specific topic to get deep knowledge and understand
 
 Each chapter covers a specific topic with practical exercises and structured learning.
 
-> 📂 **html/**
-> │── README.md
-> │── fundamentals/
-> │ ├── 01_basics/
-> │ ├── 02_text-formatting/
-> │ ├── 03_content-sectioning/
-> │ ├── 04_lists-data-structuring/
-> │ ├── 05_hyperlinks-navigation/
-> │ ├── 06_tables-data-presentation/
-> | ├── 07_forms/
-> │── advanced/
-> │ ├── 01_accessibility-aria/
-> | ├── 02_seo-meta-tags/
+```
+📂 html/
+│── README.md
+│── fundamentals/
+│   ├── 01_basics/
+│   ├── 02_text-formatting/
+│   ├── 03_content-sectioning/
+│   ├── 04_lists-data-structuring/
+│   ├── 05_hyperlinks-navigation/
+│   ├── 06_tables-data-presentation/
+│   ├── 07_forms/
+│── advanced/
+│   ├── 01_accessibility-aria/
+│   ├── 02_seo-meta-tags/
+```
+
+---
 
 ## 📖 Learning Path
 
