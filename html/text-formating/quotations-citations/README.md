@@ -1,63 +1,49 @@
 # 📝 Quotations & Citations
 
-## 🎯 Purpose:
+## 📌 Purpose
 
-This section covers semantic tags that represent quotations, citations, definitions, and abbreviations. These tags add structure, meaning, and context to your content, especially in academic or informative writing.
-
----
-
-## 📑 Core Elements
-
-| **Tag**        | **Type**    | **Description**                                                       |
-| -------------- | ----------- | --------------------------------------------------------------------- |
-| `<blockquote>` | Block-level | Defines long block quotations from another source                     |
-| `<q>`          | Inline      | Inline short quotations (auto adds quotation marks)                   |
-| `<cite>`       | Inline      | Title of a creative work or cited source                              |
-| `<abbr>`       | Inline      | Abbreviations/acronyms, with optional tooltip using `title` attribute |
-| `<dfn>`        | Inline      | Defines a term being introduced for the first time                    |
+This section explores the HTML semantic tags used to mark up quotations, citations, and related concepts like abbreviations and definitions. Understanding these tags is essential for creating accessible, well-structured content, particularly in academic, literary, and informative writing.
 
 ---
 
-## 🔍 Attribute Use
+## 📌 Core Elements
 
-| **Tag**        | **Important Attribute** | **Purpose**                        |
-| -------------- | ----------------------- | ---------------------------------- |
-| `<abbr>`       | `title`                 | Shows full form on hover           |
-| `<blockquote>` | `cite`                  | (Optional) URL of the quote source |
-| `<q>`          | `cite`                  | (Optional) Citation URL            |
+| **Tag**        | **Type**    | **Description**                                     |
+| -------------- | ----------- | --------------------------------------------------- |
+| `<blockquote>` | Block-level | Defines long block quotations from another source   |
+| `<q>`          | Inline      | Inline short quotations (auto adds quotation marks) |
+| `<cite>`       | Inline      | Title of a creative work or cited source            |
 
 ---
 
 ## 🚀 My Learning Experience
 
-- Initial Challenge:
+- **Initial Challenge:**
 
-  - I didn’t know the difference between `<q>` and `<blockquote>`, and I didn’t realize `<cite>` was for titles, not just URLs.
+  - At first, I struggled with understanding the difference between `<q>` and `<blockquote>`. Both are used for quotations, but I wasn’t sure when to use one over the other. I also misunderstood the purpose of the `<cite>` tag, thinking it was only used for linking to URLs rather than referencing the title of a creative work.
+  - I figured it out by testing things out on my [Blog](https://github.com/jeffy-j1623/dev-portfolio/blob/main/mini-projects/psycology-blog.html) , using `<q>` for short quotes within sentences, `<blockquote>` for longer ones, and `<cite>` to give proper credit to the source. It clicked when I saw it in action.
+  - I practiced using these tags in various scenarios, like writing blog posts and adding quotes from books or articles. I found that combining `<cite>` with `<blockquote>` helped me give proper credit to the original source of longer quotes.
 
-- Breakthrough:
+- **Breakthrough Moment:**
 
-  - Learned to use `<abbr title="...">` for accessibility — now readers and screen readers both get value!
+  - The breakthrough came when I realized the significance of using these tags for accessibility. The browser adding quotation marks around `<q>` made my code cleaner and easier to maintain. I also recognized that using `<cite>` for titles rather than just URLs made my content more structured and meaningful, improving the overall readability and usability.
 
-  - Found that `<dfn>` helps in glossaries and documentation.
+- **Noteworthy Discovery:**
 
-- Cool Use Case:
-
-  - I used `<cite>` to style book titles and `<blockquote>` in blog posts with attribution links.
-
-  ***
-
-  ## 🔑 Summary:
-
-  - Use `<blockquote>` for long quotes with optional citation links.
-
-  - Use `<q>` for inline quotes — browser automatically adds quotation marks.
-
-  - Use `<cite>` for works (books, reports, articles, songs).
-
-  - Use `<abbr>` for acronyms with title to show expanded form.
-
-  - Use `<dfn>` when defining a new term in documentation or learning resources.
+  - I discovered that using `<blockquote>` for longer quotations ensures that the attribution is clear, and the optional `cite` attribute allows me to link back to the original source.
+  - I also learned that using `<cite>` for referencing titles of works helps with both search engine optimization (SEO) and accessibility. It’s not just a visual cue, but a semantic one that makes the content more meaningful.
+  - I applied this knowledge in a personal blog project, where I used `<blockquote>` for large excerpts from books, and `<q>` for smaller, inline quotes. This practice not only helped structure my content but also enhanced its clarity and reliability.
 
 ---
 
-⏭️ **Next:** Learn about Text Semantics
+## 📌 Summary
+
+- **`<blockquote>`** is used for longer, block-level quotations, often with an optional `cite` attribute to link back to the source.
+- **`<q>`** is for inline quotes, and browsers automatically add quotation marks.
+- **`<cite>`** is used to reference the title of creative works (books, articles, movies, etc.).
+
+By using these semantic tags, your content becomes more accessible, structured, and meaningful to readers and search engines alike.
+
+---
+
+🚀 **Next:** Move to Text Semantics to explore semantic elements in HTML.
