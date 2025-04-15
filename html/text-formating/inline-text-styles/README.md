@@ -15,9 +15,6 @@ This section explains inline formatting elements that modify text appearance wit
 | `<u>`      | Underlined text |
 | `<sub>`    | Subscript       |
 | `<sup>`    | Superscript     |
-| `<del>`    | Deleted text    |
-| `<ins>`    | Inserted text   |
-| `<mark>`   | Highlights text |
 | `<small>`  | Smaller text    |
 
 ---
