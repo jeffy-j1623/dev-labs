@@ -6,16 +6,14 @@ This section explains inline formatting elements that modify text appearance wit
 
 ## 📑 Core Elements
 
-| **Tag**    | **Description** |
-| ---------- | --------------- |
-| `<b>`      | Bold text       |
-| `<strong>` | Important text  |
-| `<i>`      | Italic text     |
-| `<em>`     | Emphasized text |
-| `<u>`      | Underlined text |
-| `<sub>`    | Subscript       |
-| `<sup>`    | Superscript     |
-| `<small>`  | Smaller text    |
+| **Tag**   | **Description** |
+| --------- | --------------- |
+| `<b>`     | Bold text       |
+| `<i>`     | Italic text     |
+| `<u>`     | Underlined text |
+| `<sub>`   | Subscript       |
+| `<sup>`   | Superscript     |
+| `<small>` | Smaller text    |
 
 ---
 
