@@ -14,13 +14,6 @@ Every webpage starts with a structured **HTML document**. Understanding the fund
 | `<title>`         | Defines the title of the webpage (shown in browser tab).         |
 | `<meta>`          | Provides metadata like character encoding and viewport settings. |
 | `<body>`          | Contains all visible content of the webpage.                     |
-| `<h1> to <h6>`    | Headings used for structuring content hierarchically.            |
-| `<p>`             | Paragraph element for text content.                              |
-| `<a>`             | Anchor tag for hyperlinks.                                       |
-| `<img>`           | Used to insert images.                                           |
-| `<script>`        | Used to include JavaScript.                                      |
-| `<link>`          | Links external stylesheets (CSS).                                |
-| `<style>`         | Internal CSS for styling the document.                           |
 
 ---
 

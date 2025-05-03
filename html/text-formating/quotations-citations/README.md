@@ -42,8 +42,6 @@ This section explores the HTML semantic tags used to mark up quotations, citatio
 - **`<q>`** is for inline quotes, and browsers automatically add quotation marks.
 - **`<cite>`** is used to reference the title of creative works (books, articles, movies, etc.).
 
-By using these semantic tags, your content becomes more accessible, structured, and meaningful to readers and search engines alike.
-
 ---
 
 🚀 **Next:** Move to Text Semantics to explore semantic elements in HTML.

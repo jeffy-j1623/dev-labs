@@ -38,10 +38,9 @@ This section explains inline formatting elements that modify text appearance wit
 
 ## 🔑 Summary:
 
-- `<b>`, `<i>`, and `<u>` are **presentational**: use them when you want visual effects but not semantic meaning.
+- `<b>`, `<i>`, and `<u>` are **presentational**: use them when you want visual effects.
 - `<sub>` and `<sup>` should be used when the **position of text has meaning**, such as chemical formulas or superscripted references.
 - `<small>` is ideal for **fine print, legal notices, or additional notes**.
-- Prefer semantic tags when meaning matters; use these when **visual representation** is the main goal.
 
 ---
 
