@@ -10,7 +10,7 @@ This section explains how to use the `<a>` (anchor) tag to create hyperlinks in 
 
 | **Tag / Attribute** | **Description**                                                                 |
 |---------------------|---------------------------------------------------------------------------------|
-| `<a>`               | Anchor tag used to define a hyperlink.                                          |
+| `<a>`               | Anchor tag                                         |
 
 ---
 
