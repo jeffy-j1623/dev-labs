@@ -20,4 +20,4 @@ This section explains how to use the `<a>` (anchor) tag to create hyperlinks in 
 
 ---
 
-⏭️ **Next:** Explore how to create and style **Tables** in HTML.
+⏭️ **Next:** Lets explore Navigation.
