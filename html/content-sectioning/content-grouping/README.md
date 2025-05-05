@@ -24,4 +24,4 @@ This section explains the HTML elements used to **group and organize content** m
 
 ---
 
-⏭️ **Next:** 
+⏭️ **Next:** Lets Explore Content- Semantics.
