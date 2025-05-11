@@ -44,4 +44,4 @@ Semantic text tags help convey the *meaning* and *intention* behind specific por
 
 ---
 
-⏭️ **Next:** Lets explore HTML entity codes
+⏭️ **Next:** Lets explore HTML entity codes.

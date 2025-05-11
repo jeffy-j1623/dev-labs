@@ -21,4 +21,4 @@ This section explains how to add images to your webpage using the `<img>` tag.
 
 ---
 
-⏭️ **Next:**
+⏭️ **Next:** Lets Explore Audio & Video in Multimedia

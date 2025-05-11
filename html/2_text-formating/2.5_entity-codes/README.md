@@ -39,4 +39,5 @@ HTML Entity Codes are used to display characters that either have special meanin
 
 ---
 
-⏭️ **Next:** 
+⏭️ **Next:** Lets explore Lists in HTML.
+

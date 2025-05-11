@@ -21,4 +21,5 @@ This section explains how to include external or embedded content like websites,
 
 ---
 
-⏭️ **Next:** Explore HTML Forms and User Input Controls
+⏭️ **Next:** Lets explore HTML Tables and Data Presentation
+

@@ -24,4 +24,4 @@ This section explains the key HTML tags used for structuring and organizing cont
 
 ---
 
-⏭️ **Next:** Lets Explore Content- Grouping
+⏭️ **Next:** Lets Explore Content- Grouping in Content Sectioning.

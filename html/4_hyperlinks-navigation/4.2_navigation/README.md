@@ -23,4 +23,4 @@ This section covers HTML navigation elements that structure the navigational flo
 
 ---
 
-⏭️ **Next:** 
+⏭️ **Next:** Lets explore Layout structure in CContent Sectioning.
