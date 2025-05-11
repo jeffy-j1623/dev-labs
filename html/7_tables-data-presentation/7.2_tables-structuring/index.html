@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table structuring</title>
+</head>
+<body>
+    <h1></h1>
+    <table>
+  <caption>Monthly Expenses</caption>
+  <thead>
+    <tr>
+      <th>Month</th>
+      <th>Category</th>
+      <th>Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>January</td>
+      <td>Rent</td>
+      <td>₹1000</td>
+    </tr>
+    <tr>
+      <td>January</td>
+      <td>Food</td>
+      <td>₹300</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Total</td>
+      <td></td>
+      <td>₹1300</td>
+    </tr>
+  </tfoot>
+</table>
+<!--With Attribute-->
+<table border="1" cellpadding="5" cellspacing="1" width="70%">
+  <caption>Monthly Expenses</caption>
+  <thead>
+    <tr>
+      <th scope="col">Month</th>
+      <th scope="col">Category</th>
+      <th scope="col">Amount</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>January</td>
+      <td>Rent</td>
+      <td>₹1000</td>
+    </tr>
+    <tr>
+      <td>January</td>
+      <td>Food</td>
+      <td>₹300</td>
+    </tr>
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <td colspan="2">Total</td>
+      <td>₹1300</td>
+    </tr>
+  </tfoot>
+</table>
+
+</body>
+</html>
