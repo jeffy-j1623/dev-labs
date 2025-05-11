@@ -28,4 +28,4 @@ This section explains how to organize a table into separate sections for headers
 
 ---
 
-⏭️ **Next:** Let’s Explore Forms and User Input Controls
+⏭️ **Next:** Let’s Explore Forms and User Input Controls.

@@ -21,6 +21,7 @@ Each chapter covers a specific topic with practical exercises and my way of lear
 ├── 07_tables-data-presentation/
 ├── 08_forms-user-input/
 
+```
 ---
 
 ## 📊 Progress Tracker
@@ -33,13 +34,13 @@ Each chapter covers a specific topic with practical exercises and my way of lear
 | Topic                      | Status |
 | -------------------------- | ------ |
 | Basic Document Structure   | ✅     |
-| Text Formatting            | ⌛     |
-| Content Sectioning         | ⬜     |
-| Lists & Data Structuring   | ⬜     |
-| Hyperlinks & Navigation    | ⬜     |
-| Multimedia                 | ⬜     |
-| Tables & Data Presentation | ⬜     |
-| Forms Validation           | ⬜     |
+| Text Formatting            | ✅     |
+| Content Sectioning         | ✅     |
+| Lists & Data Structuring   | ✅     |
+| Hyperlinks & Navigation    | ✅     |
+| Multimedia                 | ✅     |
+| Tables & Data Presentation | ✅     |
+| Forms & User Input Controls | ⌛     |
 
 ## Resources & Further Reading 📚
 
@@ -50,4 +51,4 @@ Each chapter covers a specific topic with practical exercises and my way of lear
      🔹 **HTML Validator** - [W3C Validator](https://validator.w3.org/)
      🔹 **Tuotorial Point** - [Tuotorial Point](https://www.tutorialspoint.com/html/index.htm)
 
-```
+
