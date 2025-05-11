@@ -20,7 +20,6 @@ Each chapter covers a specific topic with practical exercises and my way of lear
 ├── 06_Mutlimedia/
 ├── 07_tables-data-presentation/
 ├── 08_forms-user-input/
-
 ```
 ---
 
