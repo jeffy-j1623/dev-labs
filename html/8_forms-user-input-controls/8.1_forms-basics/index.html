@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to My Blog</h1>
+    <form action="/Register" method="post">
+        <div>
+            <label for="Username">Enter your Username: </label>
+            <input id="Username" type="text" placeholder="Username" name="Username" required>
+        </div>
+        <div>
+            <label for="Password">Enter your Password (8 characters minimum): </label>
+            <input id="Password" type="text" placeholder="Password" name="Password" minlength="8" maxlength="10" required>
+        </div>
+        <div>
+            <input type="submit" value="Submit">
+        </div>    
+    </form>
+</body>
+</html>
