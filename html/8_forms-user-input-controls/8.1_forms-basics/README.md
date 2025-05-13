@@ -28,9 +28,7 @@ This section explains how to create basic forms in HTML for collecting user inpu
   - **`type`**: Defines the input type (e.g., `text`, `email`, `password`).
   - **`name`**: Key used to **identify form data** when submitted.
   - **`value`**: Pre-fills the input with a **default value**.
-  - **`required`**: Makes the field **mandatory** to fill.
-  - **`minlength`**: Sets **minimum characters** required.
-  - **`maxlength`**: Sets **maximum characters** allowed.
+  - **`placeholder`**: Adds hint text inside the input.
 
 ---
 

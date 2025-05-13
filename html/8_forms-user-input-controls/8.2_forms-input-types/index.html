@@ -3,9 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Forms Input Types</title>
 </head>
 <body>
-    
+    <h1>Welcome to My Blog</h1>
+    <form>
+        <div>
+           <label for="Name">Enter your Full Name: </label>
+            <input id="Name" type="text" placeholder="Full Name" name="Name">
+        </div>
+        <div>
+            <label for="Email">Enter your Email ID: </label>
+            <input id="Email" type="email" placeholder="Email ID" name="Email">
+        </div>
+         <div>
+            <label for="Age">Enter your Age: </label>
+            <input id="Age" type="number" placeholder="Age" name="Age">
+        </div>
+         <div>
+            <label for="Color">Choose your fav color: </label>
+            <input id="Color" type="color" name="color">
+        </div>
+         <div>
+            <label for="Start-Date">Start Date: </label>
+            <input id="Start-Date" type="date" name="Start-Date">
+        </div>
+         <div>
+            <label for="Appointment-Time">Choose a time for your appointment:</label>
+            <input id="Appointment-Time" type="datetime-local" name="Appointment-Time">
+        </div>
+        <div>
+            <label for="appointment">Choose a time for your meeting:</label>
+            <input id="appointment" type="time" name="appointment" min="09:00" max="18:00">
+        </div>
+        <div>
+            <label for="Start-Month">Start Month: </label>
+            <input id="Start-Month" type="month" name="Start-Month">
+        </div>
+        <div>
+            <label for="CV">Upload your CV</label>
+            <input id="CV" type="file" name="CV" accept=".pdf">
+        </div>
+        <div>
+            <label for="LinkedIn-URL">Enter your LinkedIn URL</label>
+            <input id="LinkedIn-URL" type="url" placeholder="LinkedIn URL" name="LinkedIn-URL" pattern="https://.*" size="30">
+        </div>
+        <div>
+            <label for="Phone-Number">Enter your Phone Number</label>
+            <input id="" type="tel" placeholder="Phone Number" name="Phone-Number">
+        </div>
+        <div>
+            <label for="vol">Rate your Skills (between 0 and 10):</label>
+            <input type="range" id="vol" name="vol" min="0" max="10">
+        </div>
+        <div>
+            <label for="Start-Week">Start Week</label>
+            <input id="Start-Week" type="week" name="Start-Week">
+        </div>
+    </form>
 </body>
 </html>
