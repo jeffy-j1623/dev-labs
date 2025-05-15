@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <form>
+        <p>
+        <label for="Fav-color">Choose your Fav Color :</label>
+        <div>
+        <select name="Fav-color" id="Fav-color">
+             <option value="pink" >Pink</option>
+            <option value="white" disabled>White</option>
+            <option value="black">Black</option>
+            <option value="rose" selected>Rose</option>
+        </select>
+        </div>
+        </p>
+        <p>
+        <label for="Fav-color">Choose your Fav Color(use Ctrl/Command to select multiple) :</label>
+        <div>
+        <select name="Fav-color" id="Fav-color" multiple size="4">
+            <option value="white">White</option>
+            <option value="pink">Pink</option>
+            <option value="black">Black</option>
+            <option value="rose">Rose</option>
+        </select>
+        </div>
+        </p>
+        <p>
+        <label for="Technologies">Choose the Technologies: </label>
+        <div>
+        <select name="Technologies" id="Technologies">
+            <optgroup label="Frontend">
+                <option value="html">HTML</option>
+                <option value="css">CSS</option>
+                <option value="js">JavaScript</option>
+            </optgroup>
+            <optgroup label="Backend">
+                <option value="java">Java</option>
+                <option value="python">Python</option>
+            </optgroup>
+        </select>
+        </div>
+        </p>
+        <p>
+        <label for="Comment">Write a Message : </label>
+        <div>
+        <textarea id="Comment" name="Comment" rows="4" cols="50" placeholder="Type your message here.."></textarea>
+        </div>
+        </p>
+        <p>
+        <fieldset>
+            <legend>Registeration details</legend>
+           <label for="Name">Enter your Full Name: </label>
+           <input id="Name" type="text" placeholder="Full Name" name="Name"> <br> <br>
+           <label for="Email">Enter your Email ID: </label>
+           <input id="Email" type="email" placeholder="Email ID" name="Email"><br> <br>
+           <label for="Phone-Number">Enter your Phone Number</label>
+           <input id="" type="tel" placeholder="Phone Number" name="Phone-Number">
+        </fieldset>
+        </p>
+        <p>
+            <fieldset>
+                <legend>Choose your Fav Place</legend>
+                <div>
+                    <input type="checkbox" id="Dubai"  name="Dubai" checked>
+                    <label for="Dubai">Dubai</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="Sharjah"  name="Sharjah">
+                    <label for="Sharjah">Sharjah</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="Abu-Dhabi"  name="Abu-Dhabi">
+                    <label for="Abu-Dhabi">Abu-Dhabi</label>
+                </div>
+            </fieldset>
+        </p>
+        <p>
+            <fieldset>
+             <legend>Choose your Most Fav Place</legend>
+                <div>
+                    <input type="radio" id="Dubai"  name="favPlace" checked>
+                    <label for="Dubai">Dubai</label>
+                </div>
+                <div>
+                    <input type="radio" id="Sharjah"  name="favPlace">
+                    <label for="Sharjah">Sharjah</label>
+                </div>
+                <div>
+                    <input type="radio" id="Abu-Dhabi"  name="favPlace">
+                    <label for="Abu-Dhabi">Abu-Dhabi</label>
+                </div>
+            </fieldset>
+        </p>
+    </form>
+</body>
+</html>
