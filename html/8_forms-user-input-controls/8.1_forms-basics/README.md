@@ -29,6 +29,7 @@ This section explains how to create basic forms in HTML for collecting user inpu
   - **`name`**: Key used to **identify form data** when submitted.
   - **`value`**: Pre-fills the input with a **default value**.
   - **`placeholder`**: Adds hint text inside the input.
+  - **`password`**: Hide the input text, ideal for entering passwords.
 
 ---
 
