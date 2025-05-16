@@ -30,4 +30,4 @@ This section explains how to create and structure tables in HTML to display data
 
 ---
 
-⏭️ **Next:** Let’s Explore Table Structuring in HTML.
+⏭️ **Next:** Let’s Explore [Table-Structuring](https://github.com/jeffy-j1623/dev-labs/tree/main/html/7_tables-data-presentation/7.2_tables-structuring) in HTML.

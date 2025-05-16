@@ -21,5 +21,5 @@ This section explains how to include external or embedded content like websites,
 
 ---
 
-⏭️ **Next:** Lets explore HTML Tables and Data Presentation
+⏭️ **Next:** Lets explore HTML [Tables](https://github.com/jeffy-j1623/dev-labs/tree/main/html/7_tables-data-presentation/7.1_tables-basics) and Data Presentation
 

@@ -30,4 +30,4 @@ This section introduces semantic HTML tags that convey **meaningful content stru
 
 ---
 
-⏭️ **Next:** 
+⏭️ **Next:** Lets Explore [Images](https://github.com/jeffy-j1623/dev-labs/tree/main/html/6_multimedia/6.1_images) in [Multimedia](https://github.com/jeffy-j1623/dev-labs/tree/main/html/6_multimedia)

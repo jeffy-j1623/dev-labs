@@ -23,4 +23,4 @@ This section explains how to add audio and video files to your webpage using bui
 
 ---
 
-⏭️ **Next:** Lets explore Embedded Medias in Multimedia
+⏭️ **Next:** Lets explore [Embedded-Medias](https://github.com/jeffy-j1623/dev-labs/tree/main/html/6_multimedia/6.3_embedded-medias) in [Multimedia](https://github.com/jeffy-j1623/dev-labs/tree/main/html/6_multimedia)

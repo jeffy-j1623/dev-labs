@@ -27,4 +27,4 @@ This section explains how to use buttons in HTML forms to **submit**, **reset**,
 
 ---
 
-⏭️ **Next:** HTML Form Validation – Client-Side Rules and Attributes
+⏭️ **Next:** HTML Form [Validation](https://github.com/jeffy-j1623/dev-labs/tree/main/html/8_forms-user-input-controls/8.5_forms-validation) – Client-Side Rules and Attributes

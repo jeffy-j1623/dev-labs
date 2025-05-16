@@ -28,4 +28,4 @@ This section explains how to organize a table into separate sections for headers
 
 ---
 
-⏭️ **Next:** Let’s Explore Forms and User Input Controls.
+⏭️ **Next:** Let’s Explore [Forms](https://github.com/jeffy-j1623/dev-labs/tree/main/html/8_forms-user-input-controls) and User Input Controls.

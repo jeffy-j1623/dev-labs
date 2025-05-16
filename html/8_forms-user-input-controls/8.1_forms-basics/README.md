@@ -33,4 +33,4 @@ This section explains how to create basic forms in HTML for collecting user inpu
 
 ---
 
-⏭️ **Next:** Let’s Explore Forms Input Types.
+⏭️ **Next:** Let’s Explore Forms [Input-](https://github.com/jeffy-j1623/dev-labs/tree/main/html/8_forms-user-input-controls/8.2_forms-input-types).
