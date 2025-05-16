@@ -24,4 +24,4 @@ This section explains the HTML elements used to **group and organize content** m
 
 ---
 
-⏭️ **Next:** Lets Explore Content- Semantics in Content sectioning.
+⏭️ **Next:** Lets Explore [Content-Semantics](https://github.com/jeffy-j1623/dev-labs/tree/main/html/5_content-sectioning/5.3_content-semantics) in [Content-Sectioning](https://github.com/jeffy-j1623/dev-labs/tree/main/html/5_content-sectioning).

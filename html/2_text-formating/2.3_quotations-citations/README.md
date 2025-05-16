@@ -44,4 +44,4 @@ This section explores the HTML semantic tags used to mark up quotations, citatio
 
 ---
 
-🚀 **Next:** Move to Text Semantics to explore semantic elements in HTML.
+🚀 **Next:** Move to [Text-Semantics](https://github.com/jeffy-j1623/dev-labs/tree/main/html/2_text-formating/2.4_text-semantics) to explore semantic elements in HTML.

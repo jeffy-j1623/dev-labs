@@ -27,4 +27,4 @@ This section explains the various types of lists in HTML, including unordered li
 
 ---
 
-⏭️ **Next:** Learn about Hyperlinks & Navigation in HTML.
+⏭️ **Next:** Learn about [Hyperlinks-Navigation](https://github.com/jeffy-j1623/dev-labs/tree/main/html/4_hyperlinks-navigation) in HTML.

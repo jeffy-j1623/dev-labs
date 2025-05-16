@@ -23,4 +23,4 @@ This section covers HTML navigation elements that structure the navigational flo
 
 ---
 
-⏭️ **Next:** Lets explore Layout structure in CContent Sectioning.
+⏭️ **Next:** Lets explore [Layout-structure](https://github.com/jeffy-j1623/dev-labs/tree/main/html/5_content-sectioning/5.1_layout-structure) in [Content-Sectioning](https://github.com/jeffy-j1623/dev-labs/tree/main/html/5_content-sectioning).

@@ -20,4 +20,4 @@ This section explains how to use the `<a>` (anchor) tag to create hyperlinks in 
 
 ---
 
-⏭️ **Next:** Lets explore Navigation.
+⏭️ **Next:** Lets explore [Navigation](https://github.com/jeffy-j1623/dev-labs/tree/main/html/4_hyperlinks-navigation/4.2_navigation).
