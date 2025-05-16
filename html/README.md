@@ -32,22 +32,21 @@ Each chapter covers a specific topic with practical exercises and my way of lear
 
 | Topic                      | Status |
 | -------------------------- | ------ |
-| Basic Document Structure   | ✅     |
-| Text Formatting            | ✅     |
+| Basic Document Structure   |   ✅  |
+| Text Formatting            |   ✅   |
 | Content Sectioning         | ✅     |
 | Lists & Data Structuring   | ✅     |
 | Hyperlinks & Navigation    | ✅     |
 | Multimedia                 | ✅     |
 | Tables & Data Presentation | ✅     |
-| Forms & User Input Controls | ⌛     |
+| Forms & User Input Controls | ✅    |
 
 ## Resources & Further Reading 📚
 
-    Valuable Resources which helped me to learn HTML and expand my knowledge in HTML:
+Valuable resources which helped me to learn HTML and expand my knowledge:
 
-     🔹 **MDN Web Docs (HTML Guide)** - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-     🔹 **W3Schools HTML Tutorial** - [W3Schools](https://www.w3schools.com/html/)
-     🔹 **HTML Validator** - [W3C Validator](https://validator.w3.org/)
-     🔹 **Tuotorial Point** - [Tuotorial Point](https://www.tutorialspoint.com/html/index.htm)
-
-
+- **MDN Web Docs (HTML Guide)** – [MDN-HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+-  **W3Schools HTML Tutorial** – [W3Schools](https://www.w3schools.com/html/)  
+-  **HTML Validator** – [W3C Validator](https://validator.w3.org/)  
+-  **Tutorials Point HTML Guide** – [TutorialsPoint](https://www.tutorialspoint.com/html/index.htm)
+-  **HTML Cheatsheet** – [HTML](https://htmlcheatsheet.com/)

@@ -32,8 +32,6 @@ This section explains the different types of `<input>` fields used in forms for 
   - **`name`**: Key used to **identify form.
   - **`value`**: Pre-fills the input with a **default value**.
   - **`placeholder`**: Adds hint text inside the input.
-  - **`min`** / **`max`**: Set range limits for `number`, `date`, etc.
-  - **`pattern`**: Sets a regex pattern for custom validation.
   - **`multiple`**: Allows multiple selections (e.g., for files or emails).
 
   ---

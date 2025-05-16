@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <h1>Fill the Form</h1> 
+    <form action="registered.html" method="get">
+         <div>
+            <label for="Name">Enter your Name: </label>
+            <input id="Name" type="text" placeholder="Name" name="Name" required>
+        </div>
+        <div>
+            <label for="Age">Enter your Age</label>
+            <input id="Age" type="number" placeholder="Age" name="Age" min="15" max="35" step="1" required>
+        </div>
+        <div>
+            <label for="Username">Enter your Username: </label>
+            <input id="Username" type="text" placeholder="Username" name="Username"required>
+        </div>
+        <div>
+            <label for="Password">Enter your Password: </label>
+            <input id="Password" type="password" placeholder="Password" name="Password" minlength="8" maxlength="10" pattern="^(?=.*[A-Z])(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[^A-Za-z\d])[A-Za-z\d\W]{8,}$" title="Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number, 1 special character, and be at least 8 characters long." required>
+        </div>
+        <div>
+            <button type="submit">Register</button>
+        </div>    
+    </form>
+</body>
+</html>
