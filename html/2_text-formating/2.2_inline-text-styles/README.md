@@ -44,4 +44,4 @@ This section explains inline formatting elements that modify text appearance wit
 
 ---
 
-⏭️ **Next:** Learn about Quotations and Citations.
+⏭️ **Next:** Learn about [Quotations-Citations](https://github.com/jeffy-j1623/dev-labs/tree/main/html/2_text-formating/2.3_quotations-citations).

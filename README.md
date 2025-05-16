@@ -35,18 +35,18 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 ⬜ **Not Started** – Topic has not been started yet.  
 ⌛ **In Progress** – Currently working on this topic.
 
-| **Technology** | **Status** | **Completion Date** |
-| -------------- | ---------- | ------------------- |
-| HTML5          | ⌛         |                     |
-| CSS            | ⬜         |                     |
-| JavaScript     | ⬜         |                     |
-| React          | ⬜         |                     |
+| **Technology** | **Status** | 
+| -------------- | ---------- |
+| HTML5          | ✅        |               
+| CSS            | ⬜        |                   
+| JavaScript     | ⬜        |                  
+| React          | ⬜        |
 
 ## 📟 Technologies Covered
 
 **Dev Labs** covers a wide range of frontend technologies, including:
 
-- **HTML5**: The standard markup language for web pages.
+- [HTML5](https://github.com/jeffy-j1623/dev-labs/tree/main/html): The standard markup language for web pages.
 - **CSS3**: A stylesheet language used to describe the presentation of a document written in HTML or XML.
 - **JavaScript**: The core scripting language for creating interactive and dynamic web applications.
 - **React.js**: A JavaScript library for building user interfaces, particularly single-page applications.
