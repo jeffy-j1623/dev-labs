@@ -22,7 +22,6 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 │── 📁 html/ # HTML
 │── 📁 css/ # HTML + CSS
 │── 📁 javascript/ # JavaScript
-│── 📁 react/ # React.js
 │── 📁 so on....
 
 
@@ -40,7 +39,6 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 | HTML5          | ✅        |               
 | CSS            | ⬜        |                   
 | JavaScript     | ⬜        |                  
-| React          | ⬜        |
 
 ## 📟 Technologies Covered
 
@@ -48,5 +46,4 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 
 - [HTML5](https://github.com/jeffy-j1623/dev-labs/tree/main/html): The standard markup language for web pages.
 - **CSS3**: A stylesheet language used to describe the presentation of a document written in HTML or XML.
-- **JavaScript**: The core scripting language for creating interactive and dynamic web applications.
-- **React.js**: A JavaScript library for building user interfaces, particularly single-page applications.
+- **JavaScript**: The core scripting language for creating interactive and dynamic web application
