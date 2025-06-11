@@ -37,7 +37,7 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 | **Technology** | **Status** | 
 | -------------- | ---------- |
 | HTML5          | ✅        |               
-| CSS            | ⬜        |                   
+| CSS            | ⌛        |                   
 | JavaScript     | ⬜        |                  
 
 ## 📟 Technologies Covered
