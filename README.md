@@ -45,5 +45,5 @@ The **Dev Labs** repository is organized into several folders, each dedicated to
 **Dev Labs** covers a wide range of frontend technologies, including:
 
 - [HTML5](https://github.com/jeffy-j1623/dev-labs/tree/main/html): The standard markup language for web pages.
-- **CSS3**: A stylesheet language used to describe the presentation of a document written in HTML or XML.
+- [CSS3](https://github.com/jeffy-j1623/dev-labs/tree/main/css): A stylesheet language used to describe the presentation of a document written in HTML or XML.
 - **JavaScript**: The core scripting language for creating interactive and dynamic web application
