@@ -37,7 +37,7 @@ Each chapter contains exercises and experiments focused on one major CSS topic.
 
 | Topic                              | Status |
 | ---------------------------------- | ------ |
-| Basic Syntax & Selectors             | ⬜     |
+| Basic Syntax & Selectors             | ⌛     |
 | Content Styling                       | ⬜     |
 | Box Model                          | ⬜     |
 | Positioning & Floats                        | ⬜     |
