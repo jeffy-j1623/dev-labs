@@ -23,7 +23,8 @@ Each chapter contains exercises and experiments focused on one major CSS topic.
 ├── 06_grid/
 ├── 07_transitions-animations/
 ├── 08_responsive-design-media-queries/
-├── 10_css-functions/
+├── 09_css-functions/
+
 ```
 
 ---
