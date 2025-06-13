@@ -91,4 +91,4 @@ CSS units define **how lengths, sizes, and spacing** are measured in stylesheets
 
 ---
 
-⏭️ **Next:** Lets study about CSS Properties and its Values.
+⏭️ **Next:** Lets study about CSS Content Styling.
