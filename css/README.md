@@ -16,7 +16,7 @@ Each chapter contains exercises and experiments focused on one major CSS topic.
 📂 css/
 │── README.md
 ├── 01_css-syntax-selectors/
-├── 02_content-styling/
+├── 02_visuals-styling/
 ├── 03_box-model/
 ├── 04_positioning-floats/
 ├── 05_flexbox/
