@@ -1,11 +1,11 @@
 # 🎨 CSS Background Properties
 
-## 🎯 Purpose:
+## 🎯 Purpose
 CSS background properties are used to control the background color, image, positioning, and behavior of an element’s background. They play a crucial role in enhancing the design and layout of a webpage.
 
 ---
 
-## ✅ CSS Background Properties & its Values
+## 📌 Core Elements
 
 | **Property**              | **Description**                            |
 |---------------------------|--------------------------------------------|
@@ -104,7 +104,7 @@ CSS background properties are used to control the background color, image, posit
 | text          | Clips background to text (requires `-webkit-clip`)   |
 
 ---
-## 🔑 Summary:
+## 🔑 Summary
 - Use `background` shorthand for cleaner code.
 - Set a `background-color` as fallback.
 - Use `background-size: cover;` for full image coverage.
@@ -114,4 +114,4 @@ CSS background properties are used to control the background color, image, posit
 
 ---
 
-⏭️ **Next:** Lets Explore about CSS Box Model.
+⏭️ **Next:** Lets Explore about CSS Dimensions.
