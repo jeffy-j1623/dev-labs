@@ -1,0 +1,35 @@
+body {
+     width: auto;
+     height: auto;
+     background-color: skyblue;
+}
+
+h1 {
+   width: 100%;
+   color: pink;
+}
+
+.para1 {
+       width: 500px;  
+       background-color: lightcoral;
+}
+
+.p2 {
+    width: 1000px;
+    height:auto;
+}
+
+.p3 {
+     width: auto;
+}
+
+.bg {
+    width: 300px;
+}
+
+/* Many times the size and look of the img is distrubed when height is defined.*/ 
+.rainbow {
+         width: 500px;
+         height: 600px;
+}
+
