@@ -16,14 +16,12 @@ Each chapter contains exercises and experiments focused on one major CSS topic.
 📂 css/
 │── README.md
 ├── 01_css-syntax-selectors/
-├── 02_visuals-styling/
+├── 02_layout-positioning/
 ├── 03_box-model/
-├── 04_positioning-floats/
-├── 05_flexbox/
-├── 06_grid/
-├── 07_transitions-animations/
-├── 08_responsive-design-media-queries/
-├── 09_css-functions/
+├── 04_visuals-styling/
+├── 05_typography-contnet/
+├── 06_interaction-behavior/
+├── 07_motion/
 
 ```
 
@@ -38,15 +36,14 @@ Each chapter contains exercises and experiments focused on one major CSS topic.
 
 | Topic                              | Status |
 | ---------------------------------- | ------ |
-| Basic Syntax & Selectors             |  ✅    |
-| Content Styling                       | ⌛     |
-| Box Model                          | ⬜     |
-| Positioning & Floats                        | ⬜     |
-| Flexbox Layout                     | ⬜     |
-| Grid Layout                        | ⬜     |
-| Transitions & Animations          | ⬜     |
-| Responsive Design & Media Queries | ⬜     |
-| CSS Functions                | ⬜     |
+| CSS Syntax & Selectors             |  ✅    |
+| Layout & Positioning               |  ⬜    |
+| Box Model                          |  ⬜    |
+| Visual Styling                     |  ⬜    |
+| Typography & Content               |  ⬜    |
+| Interaction & Behavior             |  ⬜    |
+| Motion                             |  ⬜    |
+
 ---
 
 ## 📚 Resources & Further Reading
