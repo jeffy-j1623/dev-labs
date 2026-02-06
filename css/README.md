@@ -26,7 +26,6 @@ In this structure, topics are arranged based on **visual understanding → spaci
 │── README.md
 │
 ├── learn-first/
-│ ├── README.md
 │ ├── 01_css-syntax-selectors/
 │ ├── 02_visual-styling/
 │ ├── 03_typography/
@@ -55,7 +54,6 @@ Instead, they are **applied through patterns, components, and page structures**.
 ```
 📂 css/│
 ├── write-later/
-│ ├── README.md
 │ ├── 01_css-foundation/
 │ ├── 02_layout-patterns/
 │ ├── 03_component-library/
@@ -102,7 +100,7 @@ WRITE LATER → Apply CSS through patterns & components
 
 | Topic          | Status |
 | -------------- | ------ |
-| CSS Selectors  | ⬜     |
+| CSS Syntax & Selectors  | ⬜     |
 | Visual Styling | ⬜     |
 | Typography     | ⬜     |
 | Box Model      | ⬜     |
