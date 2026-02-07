@@ -11,6 +11,17 @@ CSS syntax errors don’t always throw visible errors, so a strong syntax founda
 This folder exists to make CSS feel **strict, logical, and predictable**.
 
 ---
+## 🎯 Purpose
+
+This section introduces the **basic syntax of CSS**, which is the foundational skill needed to style HTML documents. It focuses on **how CSS is written**, not on design or layout.
+
+The goal is to understand:
+- How CSS is connected to HTML
+- How rules are structured
+- How properties and values are written correctly
+- Why small syntax mistakes break CSS silently
+
+---
 
 ## 🧠 What Is CSS Syntax?
 
@@ -31,6 +42,17 @@ Understanding syntax prevents these silent failures.
 
 ---
 
+## 📑 Core Concepts
+
+| **Concept**        | **Description**                                      |
+| ------------------ | -------------------------------------------------- |
+| `<link>`           | Connects an external CSS file to an HTML document |
+| CSS Comments       | Notes ignored by the browser                      |
+| Selector           | Identifies which HTML elements to style           |
+| Property           | Specifies what aspect of an element to style      |
+| Value              | Defines how the property is applied               |
+| Declaration Block  | Group of property–value pairs inside `{ }`        |
+---
 ## 📄 Files in This Folder
 ~~~
 01_css-syntax/
@@ -58,6 +80,11 @@ These mistakes are **silent killers** in CSS.
 ## 🧾 Summary
 
 - CSS syntax is the **grammar of CSS**
+- **`<link rel="stylesheet">`** connects external CSS to HTML
+- CSS rules use selectors followed by declaration blocks
+- Declaration blocks are enclosed in `{ }`
+- Properties and values are separated by `:`
+- Each declaration should end with a semicolon `;`
 - Browsers fail silently on syntax errors
 - Strong syntax knowledge prevents confusion later
 - This folder builds confidence and debugging skill
@@ -65,3 +92,5 @@ These mistakes are **silent killers** in CSS.
 > **If CSS breaks, check syntax first — always.**
 
 🚀 *Syntax mastered → selectors make sense → layouts become easy.*
+
+⏭️ **Next:** Explore **CSS Selectors** to learn how CSS targets specific HTML elements.
