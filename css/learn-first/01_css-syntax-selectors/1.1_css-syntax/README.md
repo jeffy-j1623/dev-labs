@@ -47,7 +47,7 @@ Understanding syntax prevents these silent failures.
 | **Concept**        | **Description**                                      |
 | ------------------ | -------------------------------------------------- |
 | `<link>`           | Connects an external CSS file to an HTML document |
-| CSS Comments       | Notes ignored by the browser                      |
+| CSS Comments       | Notes ignored by the browser `/*Comments*/`                     |
 | Selector           | Identifies which HTML elements to style           |
 | Property           | Specifies what aspect of an element to style      |
 | Value              | Defines how the property is applied               |
@@ -81,6 +81,7 @@ These mistakes are **silent killers** in CSS.
 
 - CSS syntax is the **grammar of CSS**
 - **`<link rel="stylesheet">`** connects external CSS to HTML
+- **CSS comments**: start with `/*` and end with `*/`. They are ignored by the browser
 - CSS rules use selectors followed by declaration blocks
 - Declaration blocks are enclosed in `{ }`
 - Properties and values are separated by `:`
